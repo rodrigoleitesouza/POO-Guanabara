@@ -1,4 +1,4 @@
-# POO-Guanabara 📗
+# POO-Guanabara 📑
 
 O presente repositório refere-se aos meus estudos durante meus aprendizados em Programação Orientada a Objetos, assistindo às aulas do Curso Em Vídeo do professor Gustavo Guanabara.
 
