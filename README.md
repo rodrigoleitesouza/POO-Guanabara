@@ -20,7 +20,7 @@ Segue abaixo os conhecimentos e as tecnologias desenvolvidas:
 - Relacionamento entre Classes;
 - Relacionamento de Agregação;
 - O que é Herança?;
-- O que é Polimorfismo?;
+- O que é Polimorfismo?.
 
 ---
 
